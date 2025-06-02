@@ -1,6 +1,7 @@
 import streamlit as st
 
-st.title("Informatika Prabu Dzimar") 
+st.title("Informatika Prabu Dzimar")
+st.write("Coding Prabudzimrar")
 st.image("IMG_8739.jpeg", width=200)
 st.header("Aplikasi menilai ganjil/genap") 
 angka= st.number_input("70:", value=0, step=1) 
